@@ -35,4 +35,5 @@ def main():
     mainPOI = pickPoint()
     lineCreator(mainPOI)
 
-main()
+main() #does this actually work??
+#dfasd
